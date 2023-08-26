@@ -1,0 +1,23 @@
+---
+- mystudent:
+    - name: anil
+      phone: 5484654
+      address: bang
+         door no: 75/a
+         street no: 2
+         pin: 2454
+
+
+    - name: sunil
+      phone : 1598454
+      address: bang
+         door no: 85/a
+         street no: 2
+         pin: 2454 
+
+    - name: venil
+      phone: 18865
+      address: bang 
+         door no: 95/a
+         street no: 2
+         pin: 2454 
